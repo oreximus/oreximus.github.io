@@ -49,7 +49,7 @@ smbclient -L [ip-address]
 
 **NOTE:** *Before accessing file the shared folder of the target make sure that you’ve, desired settings configured in your **/etc/samba/smb.conf** file.*
 
-👉🏼**[for more information](https://wiki.archlinux.org/title/Samba#Protocol_negotiation_failed:_NT_STATUS_INVALID_NETWORK_RESPONSE)**👈🏼
+👉🏼 [**for more information**](https://wiki.archlinux.org/title/Samba#Protocol_negotiation_failed:_NT_STATUS_INVALID_NETWORK_RESPONSE) 👈🏼
 
 **command:**
 
